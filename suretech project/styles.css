@@ -5,13 +5,13 @@
 
 .slick-prev {
   left: 36px;
-  top: 412px;
+  top: 512px;
   
 }
 
 .slick-next {
   right: 49px;
-  top: 412px;
+  top: 512px;
  
 }
 
@@ -88,7 +88,7 @@ line-height: normal;
   line-height: 143px;
   letter-spacing: 1.16px;
   position: absolute;
-  top: 278px;
+  top: 378px;
   left: 120px;
 }
 
@@ -101,7 +101,7 @@ line-height: normal;
   line-height: 138.004%;
   text-transform: capitalize;
   position: absolute;
-  top: 590px;
+  top: 690px;
   left: 120px;
   display: flex;
   width: 588px;
